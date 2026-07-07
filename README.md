@@ -85,5 +85,5 @@ filterButtons.forEach(button => {
 ```
 
 <div align="center">
-<p><b>CodEX Town</b> tarafından yaratıcılık ve tutkuyla kodlanmıştır.</p>
+<p><b>Ali Semi</b> tarafından yaratıcılık ve tutkuyla kodlanmıştır.</p>
 </div>
